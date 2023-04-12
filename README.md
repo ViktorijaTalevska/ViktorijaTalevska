@@ -10,6 +10,7 @@ I'm Viktorija Talevska, a self-motivated developer who recently completed a Pyth
 
 ### Education:
 -Completed Python and Django course from SMX Academy, 2023
+
 -Bachelor of Science in Electrical Engineering and Information Technologies, in Power Engineering and Project Management
 
 ### Work Experience:
