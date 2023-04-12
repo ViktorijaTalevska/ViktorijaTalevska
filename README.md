@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi everyone 👋
 
-<!--
-**ViktorijaTalevska/ViktorijaTalevska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Viktorija Talevska, a self-motivated developer who recently completed a Python and Django course. I'm always looking for new challenges and opportunities to learn and grow as a developer
 
-Here are some ideas to get you started:
+### Skills
+- Python (Django);
+-Git;
+-Postman API;
+- C/C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Education:
+-Completed Python and Django course from SMX Academy, 2023
+-Bachelor of Science in Electrical Engineering and Information Technologies, in Power Engineering and Project Management
+
+### Work Experience:
+-HR Generalist in Rhino Entertainment Group since March 2022
+ 
+
+### Interests:
+- Web development;
+-Learning languages;
+-Hiking and outdoor activities;
+
+
+### Contact Information
+📫 [Email](mailto:talevska.viktorija@hotmail.com)
+    [LinkedIn](https://www.linkedin.com/in/viktorija-talevska-a8777b1b2/)
+
