@@ -15,7 +15,7 @@ I'm Viktorija Talevska, a self-motivated developer who recently completed a Pyth
 ### Work Experience:
 - HR Generalist in Rhino Entertainment Group since March 2022 
 
-Job responsibilities: recruitment and onboarding, employee relations, benefits administration, HR analytics, travel managemnet, social media content manager, events strategy
+Job responsibilities: recruitment and onboarding, employee relations, benefits administration, HR analytics, travel management, social media content manager, events strategy
  
 
 ### Interests:
