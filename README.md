@@ -4,25 +4,24 @@ I'm Viktorija Talevska, a self-motivated developer who recently completed a Pyth
 
 ### Skills
 - Python (Django);
--Git;
--Postman API;
+- Git;
+- Postman API;
 - C/C++
 
 ### Education:
--Completed Python and Django course from SMX Academy, 2023
-
--Bachelor of Science in Electrical Engineering and Information Technologies, in Power Engineering and Project Management
+- Completed Python and Django course from SMX Academy, 2023
+- Bachelor of Science in Electrical Engineering and Information Technologies, in Power Engineering and Project Management
 
 ### Work Experience:
--HR Generalist in Rhino Entertainment Group since March 2022 
+- HR Generalist in Rhino Entertainment Group since March 2022 
 
- Job responsibilities: recruitment and onboarding, employee relations, benefits administration, HR analytics, travel managemnet, social media content manager, events strategy
+Job responsibilities: recruitment and onboarding, employee relations, benefits administration, HR analytics, travel managemnet, social media content manager, events strategy
  
 
 ### Interests:
 - Web development;
--Learning languages;
--Hiking and outdoor activities;
+- Learning languages;
+- Hiking and outdoor activities;
 
 
 ### Contact Information
