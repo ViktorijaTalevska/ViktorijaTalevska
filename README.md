@@ -3,10 +3,12 @@
 I'm Viktorija Talevska, a self-motivated developer who recently completed a Python and Django course. Seeking to transition to a career in web development, where my problem-solving skills, attention to detail, and project management experience can be utilized to develop and maintain high-quality websites and applications. I'm always looking for new challenges and opportunities to learn and grow as a developer
 
 ### Skills
-- Python (Django);
+- Python (Django,Flask);
 - Git;
 - Postman API;
 - C/C++
+- SQlite,MySQL;
+- MongoDB;
 
 ### Education:
 - Python Developer academy from Semos Academy,2023/2024
