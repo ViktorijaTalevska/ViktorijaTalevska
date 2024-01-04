@@ -10,7 +10,7 @@ I'm Viktorija Talevska, a self-motivated developer who recently completed a Pyth
 
 ### Education:
 - Python Developer academy from Semos Academy,2023/2024
-- Completed Python and Django course from SMX Academy, 2022/2023
+- Completed Python and Django Academy from SMX Academy, 2022/2023
 - Bachelor of Science in Electrical Engineering and Information Technologies, in Power Engineering and Project Management 2016-2020
 
 ### Work Experience:
